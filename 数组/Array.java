@@ -1,4 +1,5 @@
 public class Array {
+    
     private int data[];
     // 数组大小
     private int n;
